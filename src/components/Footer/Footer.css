@@ -1,0 +1,9 @@
+.container {
+  background-color: #bf9351;
+  display: flex;
+  justify-content: space-around;
+}
+
+.container ul {
+  list-style-type: none;
+}
